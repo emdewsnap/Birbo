@@ -1,0 +1,17 @@
+{
+  "name": "birbo",
+  "version": "1.0.0",
+  "description": "Bird bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Lake Parker",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "eris": "^0.11.0",
+    "express": "^4.17.1"
+  }
+}
